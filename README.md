@@ -25,7 +25,7 @@ Users should be able to:
 
 Here is the final result of the page.
 
-![](result/result.png)
+![](result/result.PNG)
 
 ### Links
 
